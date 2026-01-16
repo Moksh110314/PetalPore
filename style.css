@@ -385,23 +385,7 @@
        max-width: 300px;
    }
 
-   .social-icons {
-       margin-top: 20px;
-       display: flex;
-       gap: 15px;
-   }
-
-   .social-icons a {
-       text-decoration: none;
-       color: var(--primary);
-       font-weight: 600;
-       font-size: 0.9rem;
-       transition: 0.3s;
-   }
-
-   .social-icons a:hover {
-       color: var(--dark);
-   }
+  
 
    .footer-links h3, .footer-newsletter h3 {
        font-family: 'Playfair Display', serif;
